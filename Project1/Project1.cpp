@@ -15,4 +15,3 @@ int main()
 	gust.CalculateExpense();
 	cout << "The travel expense is " << gust.getExpense() << endl;
 }
-
